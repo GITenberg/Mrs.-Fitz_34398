@@ -1,0 +1,30 @@
+_repo: Mrs.-Fitz_34398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snaith, J. C. (John Collis)
+    alias: Snaith, John Collis
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '37216'
+    url: http://www.gutenberg.org/2009/agents/37216
+description: ''
+gutenberg_issued: '2011-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Marriages of royalty and nobility -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Foreign countries -- Fiction'
+title: Mrs. Fitz
+url: http://www.gutenberg.org/ebooks/34398
